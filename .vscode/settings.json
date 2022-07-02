@@ -1,0 +1,15 @@
+{
+	"files.associations": {
+		"*.py": "python",
+		"__bit_reference": "cpp",
+		"__mutex_base": "cpp",
+		"__split_buffer": "cpp",
+		"functional": "cpp",
+		"memory": "cpp",
+		"string": "cpp",
+		"tuple": "cpp",
+		"type_traits": "cpp",
+		"utility": "cpp",
+		"vector": "cpp"
+	}
+}
